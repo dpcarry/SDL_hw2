@@ -1,0 +1,35 @@
+﻿main.obj : error LNK2019: 无法解析的外部符号 __imp_glewInit，函数 "void __cdecl initialise(void)" (?initialise@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 SDL_CreateWindow，函数 "void __cdecl initialise(void)" (?initialise@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 SDL_GL_CreateContext，函数 "void __cdecl initialise(void)" (?initialise@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 SDL_GL_MakeCurrent，函数 "void __cdecl initialise(void)" (?initialise@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 SDL_GL_SwapWindow，函数 "void __cdecl render(void)" (?render@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 SDL_PollEvent，函数 "void __cdecl process_input(void)" (?process_input@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 SDL_Init，函数 "void __cdecl initialise(void)" (?initialise@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 SDL_Quit，函数 "void __cdecl initialise(void)" (?initialise@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp___glewDisableVertexAttribArray，函数 "void __cdecl render(void)" (?render@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp___glewEnableVertexAttribArray，函数 "void __cdecl render(void)" (?render@@YAXXZ) 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp___glewUseProgram，函数 "void __cdecl initialise(void)" (?initialise@@YAXXZ) 中引用了该符号
+ShaderProgram.obj : error LNK2001: 无法解析的外部符号 __imp___glewUseProgram
+main.obj : error LNK2019: 无法解析的外部符号 __imp___glewVertexAttribPointer，函数 "void __cdecl render(void)" (?render@@YAXXZ) 中引用了该符号
+ShaderProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewAttachShader，函数 "public: void __cdecl ShaderProgram::load(char const *,char const *)" (?load@ShaderProgram@@QEAAXPEBD0@Z) 中引用了该符号
+ShaderProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewCompileShader，函数 "private: unsigned int __cdecl ShaderProgram::load_shader_from_string(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned int)" (?load_shader_from_string@ShaderProgram@@AEAAIAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@I@Z) 中引用了该符号
+ShaderProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewCreateProgram，函数 "public: void __cdecl ShaderProgram::load(char const *,char const *)" (?load@ShaderProgram@@QEAAXPEBD0@Z) 中引用了该符号
+ShaderProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewCreateShader，函数 "private: unsigned int __cdecl ShaderProgram::load_shader_from_string(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned int)" (?load_shader_from_string@ShaderProgram@@AEAAIAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@I@Z) 中引用了该符号
+ShaderProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewDeleteProgram，函数 "private: void __cdecl ShaderProgram::cleanup(void)" (?cleanup@ShaderProgram@@AEAAXXZ) 中引用了该符号
+ShaderProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewDeleteShader，函数 "private: void __cdecl ShaderProgram::cleanup(void)" (?cleanup@ShaderProgram@@AEAAXXZ) 中引用了该符号
+ShaderProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewGetAttribLocation，函数 "public: void __cdecl ShaderProgram::load(char const *,char const *)" (?load@ShaderProgram@@QEAAXPEBD0@Z) 中引用了该符号
+ShaderProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewGetProgramiv，函数 "public: void __cdecl ShaderProgram::load(char const *,char const *)" (?load@ShaderProgram@@QEAAXPEBD0@Z) 中引用了该符号
+ShaderProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewGetShaderInfoLog，函数 "private: unsigned int __cdecl ShaderProgram::load_shader_from_string(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned int)" (?load_shader_from_string@ShaderProgram@@AEAAIAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@I@Z) 中引用了该符号
+ShaderProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewGetShaderiv，函数 "private: unsigned int __cdecl ShaderProgram::load_shader_from_string(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned int)" (?load_shader_from_string@ShaderProgram@@AEAAIAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@I@Z) 中引用了该符号
+ShaderProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewGetUniformLocation，函数 "public: void __cdecl ShaderProgram::load(char const *,char const *)" (?load@ShaderProgram@@QEAAXPEBD0@Z) 中引用了该符号
+ShaderProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewLinkProgram，函数 "public: void __cdecl ShaderProgram::load(char const *,char const *)" (?load@ShaderProgram@@QEAAXPEBD0@Z) 中引用了该符号
+ShaderProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewShaderSource，函数 "private: unsigned int __cdecl ShaderProgram::load_shader_from_string(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned int)" (?load_shader_from_string@ShaderProgram@@AEAAIAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@I@Z) 中引用了该符号
+ShaderProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewUniform4f，函数 "public: void __cdecl ShaderProgram::set_colour(float,float,float,float)" (?set_colour@ShaderProgram@@QEAAXMMMM@Z) 中引用了该符号
+ShaderProgram.obj : error LNK2019: 无法解析的外部符号 __imp___glewUniformMatrix4fv，函数 "public: void __cdecl ShaderProgram::set_model_matrix(struct glm::mat<4,4,float,0> const &)" (?set_model_matrix@ShaderProgram@@QEAAXAEBU?$mat@$03$03M$0A@@glm@@@Z) 中引用了该符号
+MSVCRTD.lib(exe_winmain.obj) : error LNK2019: 无法解析的外部符号 WinMain，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+C:\SDL\glew\lib\Release\Win32\glew32.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\SDL\SDL2\lib\x86\SDL2.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\SDL\SDL2\lib\x86\SDL2main.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\SDL\SDL2_image\lib\x86\SDL2_image.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\SDL\SDL2_mixer\lib\x86\SDL2_mixer.lib : warning LNK4272: 库计算机类型“x86”与目标计算机类型“x64”冲突
+C:\Users\23061\source\repos\SDLSimple\x64\Debug\SDLSimple.exe : fatal error LNK1120: 28 个无法解析的外部命令
