@@ -1,4 +1,26 @@
 ﻿  main.cpp
-  SDLSimple.vcxproj -> C:\Users\23061\source\repos\SDL_hw1\Debug\SDLSimple.exe
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(24,28): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(25,15): warning C4244: “初始化”: 从“float”转换到“const int”，可能丢失数据
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(295,37): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(295,37): warning C4244:         with
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(295,37): warning C4244:         [
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(295,37): warning C4244:             T=float
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(295,37): warning C4244:         ]
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(298,38): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(298,38): warning C4244:         with
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(298,38): warning C4244:         [
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(298,38): warning C4244:             T=float
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(298,38): warning C4244:         ]
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(302,41): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(302,41): warning C4244:         with
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(302,41): warning C4244:         [
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(302,41): warning C4244:             T=float
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(302,41): warning C4244:         ]
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(305,42): warning C4244: “=”: 从“double”转换到“T”，可能丢失数据
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(305,42): warning C4244:         with
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(305,42): warning C4244:         [
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(305,42): warning C4244:             T=float
+C:\Users\23061\source\repos\SDL_hw1 - 副本\main.cpp(305,42): warning C4244:         ]
+  SDLSimple.vcxproj -> C:\Users\23061\source\repos\SDL_hw1 - 副本\Debug\SDLSimple.exe
   'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
   或批处理文件。

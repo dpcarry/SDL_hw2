@@ -1,21 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\23061\\source\\repos\\SDL_hw1\\",
+  "WorkspaceRootPath": "C:\\Users\\23061\\source\\repos\\SDL_hw1 - \u526F\u672C\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47A85D10-648A-464E-9803-A1567A3BE62D}|SDLSimple.vcxproj|C:\\Users\\23061\\source\\repos\\SDL_hw1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{47A85D10-648A-464E-9803-A1567A3BE62D}|SDLSimple.vcxproj|C:\\Users\\23061\\source\\repos\\SDL_hw1 - \u526F\u672C\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{47A85D10-648A-464E-9803-A1567A3BE62D}|SDLSimple.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47A85D10-648A-464E-9803-A1567A3BE62D}|SDLSimple.vcxproj|C:\\Users\\23061\\source\\repos\\SDL_hw1\\ShaderProgram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{47A85D10-648A-464E-9803-A1567A3BE62D}|SDLSimple.vcxproj|C:\\Users\\23061\\source\\repos\\SDL_hw1 - \u526F\u672C\\mid_line.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{47A85D10-648A-464E-9803-A1567A3BE62D}|SDLSimple.vcxproj|solutionrelative:mid_line.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A85D10-648A-464E-9803-A1567A3BE62D}|SDLSimple.vcxproj|C:\\Users\\23061\\source\\repos\\SDL_hw1 - \u526F\u672C\\paddle.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{47A85D10-648A-464E-9803-A1567A3BE62D}|SDLSimple.vcxproj|solutionrelative:paddle.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A85D10-648A-464E-9803-A1567A3BE62D}|SDLSimple.vcxproj|C:\\Users\\23061\\source\\repos\\SDL_hw1 - \u526F\u672C\\ShaderProgram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{47A85D10-648A-464E-9803-A1567A3BE62D}|SDLSimple.vcxproj|solutionrelative:ShaderProgram.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47A85D10-648A-464E-9803-A1567A3BE62D}|SDLSimple.vcxproj|C:\\Users\\23061\\source\\repos\\SDL_hw1\\ShaderProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{47A85D10-648A-464E-9803-A1567A3BE62D}|SDLSimple.vcxproj|C:\\Users\\23061\\source\\repos\\SDL_hw1 - \u526F\u672C\\ShaderProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{47A85D10-648A-464E-9803-A1567A3BE62D}|SDLSimple.vcxproj|solutionrelative:ShaderProgram.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\23061\\source\\repos\\SDL_hw1\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\23061\\source\\repos\\SDL_hw1 - \u526F\u672C\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -26,27 +34,52 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "paddle.png",
+              "DocumentMoniker": "C:\\Users\\23061\\source\\repos\\SDL_hw1 - \u526F\u672C\\paddle.png",
+              "RelativeDocumentMoniker": "paddle.png",
+              "ToolTip": "C:\\Users\\23061\\source\\repos\\SDL_hw1 - \u526F\u672C\\paddle.png",
+              "RelativeToolTip": "paddle.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-12T14:06:18.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ShaderProgram.h",
-              "DocumentMoniker": "C:\\Users\\23061\\source\\repos\\SDL_hw1\\ShaderProgram.h",
-              "RelativeDocumentMoniker": "ShaderProgram.h",
-              "ToolTip": "C:\\Users\\23061\\source\\repos\\SDL_hw1\\ShaderProgram.h",
-              "RelativeToolTip": "ShaderProgram.h",
-              "ViewState": "AQIAAB4AAAAAAAAAAABIwBQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-27T18:21:34.537Z"
+              "Title": "mid_line.png",
+              "DocumentMoniker": "C:\\Users\\23061\\source\\repos\\SDL_hw1 - \u526F\u672C\\mid_line.png",
+              "RelativeDocumentMoniker": "mid_line.png",
+              "ToolTip": "C:\\Users\\23061\\source\\repos\\SDL_hw1 - \u526F\u672C\\mid_line.png",
+              "RelativeToolTip": "mid_line.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-12T14:06:00.066Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "ShaderProgram.h",
+              "DocumentMoniker": "C:\\Users\\23061\\source\\repos\\SDL_hw1 - \u526F\u672C\\ShaderProgram.h",
+              "RelativeDocumentMoniker": "ShaderProgram.h",
+              "ToolTip": "C:\\Users\\23061\\source\\repos\\SDL_hw1 - \u526F\u672C\\ShaderProgram.h",
+              "RelativeToolTip": "ShaderProgram.h",
+              "ViewState": "AQIAABgAAAAAAAAAAABiwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T18:21:34.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "stb_image.h",
-              "DocumentMoniker": "C:\\Users\\23061\\source\\repos\\SDL_hw1\\stb_image.h",
+              "DocumentMoniker": "C:\\Users\\23061\\source\\repos\\SDL_hw1 - \u526F\u672C\\stb_image.h",
               "RelativeDocumentMoniker": "stb_image.h",
-              "ToolTip": "C:\\Users\\23061\\source\\repos\\SDL_hw1\\stb_image.h",
+              "ToolTip": "C:\\Users\\23061\\source\\repos\\SDL_hw1 - \u526F\u672C\\stb_image.h",
               "RelativeToolTip": "stb_image.h",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -54,25 +87,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ShaderProgram.cpp",
-              "DocumentMoniker": "C:\\Users\\23061\\source\\repos\\SDL_hw1\\ShaderProgram.cpp",
+              "DocumentMoniker": "C:\\Users\\23061\\source\\repos\\SDL_hw1 - \u526F\u672C\\ShaderProgram.cpp",
               "RelativeDocumentMoniker": "ShaderProgram.cpp",
-              "ToolTip": "C:\\Users\\23061\\source\\repos\\SDL_hw1\\ShaderProgram.cpp",
+              "ToolTip": "C:\\Users\\23061\\source\\repos\\SDL_hw1 - \u526F\u672C\\ShaderProgram.cpp",
               "RelativeToolTip": "ShaderProgram.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-20T18:55:04.722Z"
+              "WhenOpened": "2024-09-20T18:55:04.722Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\23061\\source\\repos\\SDL_hw1\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\23061\\source\\repos\\SDL_hw1 - \u526F\u672C\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\23061\\source\\repos\\SDL_hw1\\main.cpp",
+              "ToolTip": "C:\\Users\\23061\\source\\repos\\SDL_hw1 - \u526F\u672C\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAPAAAAAAAAAAAAAAAAYBAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-06T15:12:11.829Z",
               "EditorCaption": ""
